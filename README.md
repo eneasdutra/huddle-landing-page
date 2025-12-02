@@ -11,14 +11,15 @@ This is a solution to the [Huddle landing page with single introductory section 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Main Features Implemented](#main-features-implemented)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-The project consists of a pricing grid component with a fully responsive layout and clean design, simulating a subscription plan section.
+This project consists of creating a responsive landing page for Huddle, a platform focused on building communities.
 
-It demonstrates best practices in HTML structuring, use of CSS variables, and layout adaptation for different screens.
+The main objective was to replicate the provided design, implementing the page with a mobile-first architecture to ensure an optimized user experience across all devices.
 
 ## Overview
 
@@ -50,15 +51,19 @@ Users should be able to:
 
 During this challenge, I consolidated some important concepts:
 
-1. Fluid responsiveness using Flexbox.
+1. HTML5: Semantic structure of the content.
 
-2. Semantic organization of HTML, improving accessibility.
+2. CSS3: Styling and layout, including the Mobile-First approach with the use of Media Queries for adaptation to larger screens (Desktop).
 
-3. Use of CSS variables for consistency in colors and spacing.
+3. Font Awesome: Used for the social icons in the footer.
 
-4. Adaptive layout with rounded borders, soft shadows, and balanced typography.
+4. Google Fonts: Used for Poppins (titles) and Open Sans (body text).
 
-To see how you can add code snippets, see below:
+### 🎯 Main Features Implemented
+
+- Responsive Layout: The page transitions from a single-column layout (Mobile) to a two-column layout (Desktop).
+- Interactive States (:hover / :focus): Implementation of active and focus states for the Register button and social icons, as per design specifications.
+-Clean Design: Focus on clarity and fidelity to the Huddle design system (typography, colors, and spacing).
 
 To see how you can add code snippets, see below:
 
