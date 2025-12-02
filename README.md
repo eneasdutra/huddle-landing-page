@@ -63,7 +63,7 @@ During this challenge, I consolidated some important concepts:
 
 - Responsive Layout: The page transitions from a single-column layout (Mobile) to a two-column layout (Desktop).
 - Interactive States (:hover / :focus): Implementation of active and focus states for the Register button and social icons, as per design specifications.
--Clean Design: Focus on clarity and fidelity to the Huddle design system (typography, colors, and spacing).
+- Clean Design: Focus on clarity and fidelity to the Huddle design system (typography, colors, and spacing).
 
 To see how you can add code snippets, see below:
 
