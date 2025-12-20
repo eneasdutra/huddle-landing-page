@@ -30,8 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://eneasdutra.github.io/huddle-landing-page/)
 
 ## My process
 
@@ -67,9 +66,9 @@ I intend to continue exploring advanced responsive image techniques (such as usi
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@eneasdutra](https://www.frontendmentor.io/profile/eneasdutra)
+- Linkedin - [@eneasmdutra](https://www.linkedin.com/in/eneasmdutra/)
+- Github - [@eneasdutra](https://github.com/eneasdutra)
 
 ## Acknowledgments
 
