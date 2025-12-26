@@ -60,7 +60,7 @@ I also focused on the accessibility of social media icons, ensuring that screen 
 <a href="#" aria-label="Visite nosso Facebook">
   <i class="fa-brands fa-facebook-f"></i>
 </a>
-
+```
 ### Continued development
 
 I intend to continue exploring advanced responsive image techniques (such as using the <picture> tag) to load different background versions more efficiently, further optimizing performance.
