@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/eneasdutra/huddle-landing-page](https://github.io/eneasdutra/huddle-landing-page)
+- Solution URL: [https://github.com/eneasdutra/huddle-landing-page](https://github.com/eneasdutra/huddle-landing-page)
 - Live Site URL: [https://eneasdutra.github.io/huddle-landing-page/](https://eneasdutra.github.io/huddle-landing-page/)
 
 ## My process
